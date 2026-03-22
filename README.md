@@ -22,7 +22,7 @@ Preoccupied with nothing , Art of Noticing and creating , better at successful i
 | **Hariharasudhan A** | UI/UX Designer & Developer | [sudanayyappan_bcs28@mepcoeng.ac.in](mailto:sudanayyappan_bcs28@mepcoeng.ac.in) |
 
 ## Project Access
-For an interactive view, use the Figma link below or navigate to specific project directories.
+navigate to specific project directories.
 
 ---
 *Maintained by Hariharasudhan A.*
