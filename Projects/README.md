@@ -1,6 +1,6 @@
-# UI/UX Design Repository: Website Interface Collections
+# Projects
 
-This repository serves as a centralized portfolio for high-fidelity website user interface designs. The projects contained herein demonstrate a focus on modern aesthetic principles, structural hierarchy, and user-centered design methodologies.
+This repository serves as a centralized portfolio for website user interface designs. The projects contained here demonstrate a focus on modern aesthetic principles, structural hierarchy, and user-centered design methodologies.
 
 ---
 
@@ -12,8 +12,7 @@ The primary objective of this repository is to showcase the translation of conce
 *   Developing responsive web layouts that adapt across desktop, tablet, and mobile breakpoints.
 *   Implementing consistent Design Systems, including reusable components, UI kits, and style guides.
 *   Creating interactive prototypes to simulate user journeys and transitions.
-*   Ensuring accessibility standards (WCAG) are considered within the visual design phase.
-
+  
 ---
 
 ## Design Methodology
@@ -40,7 +39,7 @@ The workflow for the projects in this repository typically follows a structured 
 
 **Hariharasudhan**  
 GitHub: [hariharasudhan-29507](https://github.com)
-
+reachme: sudanayyappan_bcs28@mepcoeng.ac.in
 ---
 
 ## License
