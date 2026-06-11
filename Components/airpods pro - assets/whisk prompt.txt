@@ -1,0 +1,32 @@
+I understand. You need the specific, dynamic, and text-integrated look from the original four-panel design (image_3.png), but applied to the chrome and white product from your newer image (image_4.png), all against a pure white background.
+
+To achieve this level of precision, you need to generate specific assets and then place them into a layout. I have generated a series of detailed prompts, each designed to capture the composition and UI integrations from your ideal vision, while strictly following the white background rule.
+
+Asset 1: Panel 1 Hero — Open Chrome Case with Floating Callouts
+This prompt recreates the dramatic opening shot. It puts the chrome case in a dynamic, angled position with the lid wide open, ensuring the callout text (drivers, noise cancellation) can be integrated as seen in the original "SOUNDSCAPES REDEFINED" layout.
+
+Prompt: A hyper-realistic, dynamic close-up photograph of the specific open, satin chrome wireless earbud case and white earbuds seen in image_4.png. The chrome case is angled sharply, positioned on a pure, featureless white studio background. Diffused lighting emphasizes the complex chrome hinge. Thin, white, minimalist text callout lines are rendered in the surrounding negative space, with fine text labels (like 'Drivers', 'Active Noise Cancellation') pointing exactly to the components, matching the specific layout and callout details from the first panel of image_3.png. The scene is immaculate and high-tech, with no background gradients.
+
+Asset 2: Panel 2 Feature — Staggered Floating Earbuds and Text Flow
+This prompt captures the "Unleash the Joy" flow. It removes the case entirely, allowing the earbuds to float freely, and it incorporates the distinctive staggered typography layout from image_3.png.
+
+Prompt: The two specific white earbuds from image_4.png are floating independently in a clean, pure white void, staggered in height. The scene is pristine. The bold, distinct brush-style text flow, exactly matching the placement, font style, and staggered text blocks (reading "UNLEASH THE JOY", and the descriptive feature paragraphs below it) from the second panel of image_3.png, is rendered in the surrounding negative space. The floating earbuds are detailed and immaculate against the pure white backdrop, creating a deep but clean visual space.
+
+Asset 3: Panel 3 Lifestyle — Integrated Diversity Grid (Optimized for White)
+This prompt reconstructs the entire lifestyle grid, but critically, it dictates that all people are photographed in a minimalist, light-washed, high-key style against a light background (optimized for a pure white overall canvas), ensuring the final assembly is clean and bright.
+
+Prompt: An editorial grid layout, exactly matching the 2x2 and vertical placement from the third panel of image_3.png, presented against a pure, featureless white backdrop. The grid features a diverse cast. Every person is photographed in minimalist, light-drenched, high-key studio lighting against a soft, light-beige or light-gray backdrop, creating a clean, seamless integration. The grid must include:
+
+Top Left (Focus): Man in profile with intense focus.
+
+Top Right: Runner in a clean, bright, misty nature scene.
+
+Middle Right (Awareness): Professional in a modern, sunlit office with glass walls.
+
+Lower Center (Immersion): Person wearing cream-colored over-ear headphones, matching the appearance in image_3.png, looking calm and absorbed.
+The overall aesthetic is cohesive and immaculately bright.
+
+Asset 4: Panel 4 Technical — Blueprint Blueprint Wireframe
+This prompt handles the specific technical cross-section. The key instruction here is that the schematic is rendered on the pure white background using a dark wireframe with a glowing effect, rather than being on a dark canvas itself.
+
+Prompt: A precise technical schematic diagram of a single white earbud, exactly matching the cross-section design (driver, battery, chip) from the fourth panel of image_3.png. The diagram is rendered as a clean, dark charcoal or black blueprint outline with a subtle cyan glow effect. The entire schematic is floating directly on a featureless, pure white background. Technical measurement lines and micro-typography data labels (like "10mm DRIVER", "BATTERY CELL") are rendered in thin black lines, matching the placement in image_3.png. The effect is clean engineering transparency.
